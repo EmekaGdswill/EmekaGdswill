@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmekaGdswill
-- 👀 I’m interested in Machine learning for communications and digital technology
-- 🌱 I’m currently learning distributed clock synchronization for wireless sensors
+- 👀 I’m interested in Machine learning for digital technology and Multidisciplinary applications
+- 🌱 I’m currently learning on diverse deep learning applications for Bio-informatics and Healthcare optimisation
 - 💞️ I’m looking to collaborate on projects in ML
 
 
